@@ -1,0 +1,40 @@
+﻿<form name="form">
+    <div class="row">
+        <div class="col-xs-6">
+            <div class="form-group">
+                <label>CBO</label>
+                <input type="text" class="form-control" placeholder="Digite o CBO" ng-model="cargo.Codigo" maxlength="6" required/>
+            </div>
+        </div>
+        <div class="col-xs-6">
+            <div class="form-group">
+                <label>Ocupação</label>
+                <input type="text" class="form-control" placeholder="Digite a Ocupação" ng-model="cargo.Ocupacao" maxlength="80" required/>
+            </div>
+        </div>
+    </div>
+</form>
+<div class="box" ng-show="resultado.length > 0">
+    <div class="box-header with-border">
+        <h3 class="box-title">Usuário(s) vinculado(s) a esta cargo</h3>
+        <div class="box-tools pull-right">
+            <button class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i></button>
+            <button class="btn btn-box-tool" data-widget="remove"><i class="fa fa-times"></i></button>
+        </div>
+    </div>
+    <div class="box-body">
+        <table class="table table-bordered">
+            <tr>
+                <th>Nome</th>
+                <th>Email</th>
+            </tr>
+            <tr dir-paginate="item in cargo.Usuarios | itemsPerPage: 3 as resultado">
+                <td>{{item.Nome}}</td>
+                <td>{{item.Email}}</td>
+            </tr>
+        </table>
+        <div style="text-align: right">
+            <dir-pagination-controls></dir-pagination-controls>
+        </div>
+    </div>
+</div>

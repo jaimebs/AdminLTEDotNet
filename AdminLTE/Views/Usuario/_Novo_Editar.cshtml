@@ -1,0 +1,73 @@
+﻿<input type="text" class="form-control" ng-model="usuario.ID" ng-hide="true" />
+<form name="form">
+    <div class="row">
+        <div class="col-xs-6">
+            <div class="form-group">
+                <label>Nome</label>
+                <input type="text" class="form-control" ng-model="usuario.Nome" placeholder="Digite o Nome" />
+            </div>
+        </div>
+        <div class="col-xs-6">
+            <div class="form-group">
+                <label>Email</label>
+                <input type="email" class="form-control" ng-model="usuario.Email" placeholder="Digite o Email" />
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-6">
+            <div class="form-group">
+                <label>Senha</label>
+                <input type="text" class="form-control" ng-model="usuario.Senha" placeholder="Digite a Senha" />
+            </div>
+        </div>
+        <div class="col-xs-6">
+            <div class="form-group">
+                <label>Cargo</label>
+                <select class="form-control" ng-model="usuario.CargoID" ng-options="item.ID as item.Ocupacao for item in Cargos | orderBy:'Ocupacao'" required>
+                    <option value="">-- Selecione um Cargo --</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-6">
+            <div class="form-group">
+                <label>Telefone</label>
+                <input type="text" class="form-control" ng-model="usuario.Telefone" placeholder="Digite o telefone" ui-br-phone-number />
+            </div>
+            <div class="form-group">
+                <button type="button" class="btn btn-primary" ng-click="Incluir(usuario.Telefone)" ng-disabled="!usuario.Telefone">
+                    <span class="fa fa-phone" aria-hidden="true"></span> Incluir Telefone
+                </button>
+            </div>
+        </div>
+    </div>
+    <div class="box" ng-show="resultado.length > 0">
+        <div class="box-header with-border">
+            <h3 class="box-title">Telefones de Usuario</h3>
+            <div class="box-tools pull-right">
+                <button class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i></button>
+                <button class="btn btn-box-tool" data-widget="remove"><i class="fa fa-times"></i></button>
+            </div>
+        </div>
+        <div class="box-body">
+            <table class="table table-bordered">
+                <tr>
+                    <th>Telefone</th>
+                </tr>
+                <tr dir-paginate="item in Telefones | itemsPerPage: 3 as resultado">
+                    <td><input type="text" class="form-control" ng-model="item.Telefone" placeholder="Digite o telefone" ui-br-phone-number /></td>
+                    <td>
+                        <button type="button" class="btn btn-danger" ng-click="ExcluirUsuarioTelefone(item.ID,$index)">
+                            <span class="fa fa-trash" aria-hidden="true"></span>
+                        </button>
+                    </td>
+                </tr>
+            </table>
+            <div style="text-align: right">
+                <dir-pagination-controls></dir-pagination-controls>
+            </div>
+        </div>
+    </div>
+</form>

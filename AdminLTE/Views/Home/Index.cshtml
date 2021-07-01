@@ -1,0 +1,37 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<script src="https://www.google.com/jsapi"></script>
+
+<div ng-app="app" ng-controller="HomeController">
+    <div class="box box-info">
+        <div class="box-header with-border">
+            <h3 class="box-title">Quantidade de carneiros comprados - Barra</h3>
+            <div class="box-tools pull-right">
+                <button class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i></button>
+                <button class="btn btn-box-tool" data-widget="remove"><i class="fa fa-times"></i></button>
+            </div>
+        </div>
+        <div class="box-body">
+            <div class="chart">
+                <div id="chart_div"></div>
+            </div>
+        </div><!-- /.box-body -->
+    </div>
+
+    <div class="box box-info">
+        <div class="box-header with-border">
+            <h3 class="box-title">Quantidade de carneiros comprados - Pizza</h3>
+            <div class="box-tools pull-right">
+                <button class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i></button>
+                <button class="btn btn-box-tool" data-widget="remove"><i class="fa fa-times"></i></button>
+            </div>
+        </div>
+        <div class="box-body">
+            <div class="chart">
+                <div id="piechart_div"></div>
+            </div>
+        </div><!-- /.box-body -->
+    </div>
+</div>

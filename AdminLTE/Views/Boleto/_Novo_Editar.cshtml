@@ -1,0 +1,174 @@
+﻿<div class="row">
+    <div class="col-xs-6">
+        <div class="form-group">
+            <label>Cnpj do Cedente</label>
+            <input type="text" class="form-control" placeholder="Digite o Cnpj" ng-model="boleto.CnpjCedente" ui-br-cnpj-mask />
+        </div>
+    </div>
+    <div class="col-xs-6">
+        <div class="form-group">
+            <label>Nome do Cedente</label>
+            <input type="text" class="form-control" placeholder="Digite o Nome" ng-model="boleto.NomeCedente" />
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-6">
+        <div class="form-group">
+            <label>Agencia</label>
+            <input type="text" class="form-control" placeholder="Digite a Agência" ng-model="boleto.AgenciaCedente" />
+        </div>
+    </div>
+    <div class="col-xs-6">
+        <div class="form-group">
+            <label>Dígito Agência</label>
+            <input type="text" class="form-control" placeholder="Digite o dígito da Agência" ng-model="boleto.DvAgenciaCedente" />
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-6">
+        <div class="form-group">
+            <label>Conta</label>
+            <input type="text" class="form-control" placeholder="Digite a Conta" ng-model="boleto.ContaCedente" />
+        </div>
+    </div>
+    <div class="col-xs-6">
+        <div class="form-group">
+            <label>Dígito Conta</label>
+            <input type="text" class="form-control" placeholder="Digite o dígito da Conta" ng-model="boleto.DvContaCedente" />
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-6">
+        <div class="form-group">
+            <label>Código do Cendente</label>
+            <input type="text" class="form-control" placeholder="Digite o Código" ng-model="boleto.CodigoCedente" />
+        </div>
+    </div>
+    <div class="col-xs-6">
+        <div class="form-group">
+            <label>Vencimento</label>
+            <input type="text" class="form-control" ng-model="boleto.Vencimento" ui-mask="99/99/9999"/>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-6">
+        <div class="form-group">
+            <label>Valor</label>
+            <input type="text" class="form-control" placeholder="Digite o Valor" ui-money-mask="2" ng-model="boleto.Valor" />
+        </div>
+    </div>
+    <div class="col-xs-6">
+        <div class="form-group">
+            <label>Carteira</label>
+            <input type="text" class="form-control" placeholder="Digite a Carteira" ng-model="boleto.Carteira" />
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-6">
+        <div class="form-group">
+            <label>Número do Documento</label>
+            <input type="text" class="form-control" placeholder="Digite o Nosso Número" ng-model="boleto.NumeroDocumento" />
+        </div>
+    </div>
+    <div class="col-xs-6">
+        <div class="form-group">
+            <label>Nosso Número</label>
+            <input type="text" class="form-control" placeholder="Digite o Nosso Número" ng-model="boleto.NossoNumero" />
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-6">
+        <div class="form-group">
+            <label>Cpf do Sacado</label>
+            <input type="text" class="form-control" placeholder="Digite o Cpf" ng-model="boleto.CpfSacado" ui-br-cpf-mask />
+        </div>
+    </div>
+    <div class="col-xs-6">
+        <div class="form-group">
+            <label>Nome do Sacado</label>
+            <input type="text" class="form-control" placeholder="Digite o Nome" ng-model="boleto.NomeSacado" />
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-6">
+        <div class="form-group">
+            <label>Cep</label>
+            <input type="text" class="form-control" placeholder="Digite o Cep" ng-blur="ConsultaCep(boleto.Cep)" ng-model="boleto.Cep" ui-br-cep-mask />
+        </div>
+    </div>
+    <div class="col-xs-6">
+        <div class="form-group">
+            <label>Endereço</label>
+            <input type="text" class="form-control" placeholder="Digite o Endereço" ng-model="boleto.Endereco" />
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-6">
+        <div class="form-group">
+            <label>Número</label>
+            <input type="text" class="form-control" placeholder="Digite o Bairro" ng-model="boleto.Numero" />
+        </div>
+    </div>
+    <div class="col-xs-6">
+        <div class="form-group">
+            <label>Bairro</label>
+            <input type="text" class="form-control" placeholder="Digite o Bairro" ng-model="boleto.Bairro" />
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-6">
+        <div class="form-group">
+            <label>Cidade</label>
+            <input type="text" class="form-control" placeholder="Digite a Cidade" ng-model="boleto.Cidade" />
+        </div>
+    </div>
+    <div class="col-xs-6">
+        <div class="form-group">
+            <label>Uf</label>
+            <input type="text" class="form-control" placeholder="Digite a Uf" ng-model="boleto.Uf" />
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-6">
+        <div class="form-group">
+            <label>Complemento</label>
+            <input type="text" class="form-control" placeholder="Digite o complemento" ng-model="boleto.Complemento" />
+        </div>
+    </div>
+    <div class="col-xs-6">
+        <div class="form-group">
+            <label>Instruções</label>
+            <input type="text" class="form-control" placeholder="Digite a instrução" ng-model="boleto.Instrucoes" />
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-6">
+        <div class="form-group">
+            <label>Banco</label>
+            <input type="text" class="form-control" placeholder="Digite o código do banco" ng-model="boleto.CodigoBanco" />
+        </div>
+    </div>
+    <div class="col-xs-6">
+        <div class="form-group">
+            <label>Aceite</label>
+            <input type="checkbox" ng-model="boleto.Aceite" />
+        </div>
+    </div>
+</div>
+
+
+
+
+
+

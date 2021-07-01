@@ -1,0 +1,183 @@
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\ApplicationInsights.config
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\roslyn\csc.exe
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\roslyn\System.Collections.Immutable.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\roslyn\vbc.exe
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\roslyn\VBCSCompiler.exe
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\roslyn\VBCSCompiler.exe.config
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\AdminLTE.dll.config
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\AdminLTE.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\AdminLTE.pdb
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Antlr3.Runtime.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Boleto.Net.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\EntityFramework.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\EntityFramework.SqlServer.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.AI.Web.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.AI.WindowsServer.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.ApplicationInsights.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.Owin.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.Owin.Security.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.Owin.Security.Google.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.Web.Infrastructure.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Newtonsoft.Json.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\NReco.PdfGenerator.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Owin.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\System.Net.Http.Formatting.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\System.Web.Helpers.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\System.Web.Http.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\System.Web.Http.Owin.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\System.Web.Http.WebHost.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\System.Web.Mvc.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\System.Web.Optimization.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\System.Web.Razor.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\System.Web.WebPages.Deployment.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\System.Web.WebPages.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\System.Web.WebPages.Razor.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\WebGrease.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.AI.Web.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.AI.WindowsServer.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.ApplicationInsights.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Newtonsoft.Json.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\System.Net.Http.Formatting.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\System.Web.Helpers.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\System.Web.Http.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\System.Web.Http.WebHost.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\System.Web.Mvc.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\System.Web.Optimization.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\System.Web.Razor.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\System.Web.WebPages.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\System.Web.WebPages.Deployment.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\System.Web.WebPages.Razor.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Antlr3.Runtime.pdb
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\EntityFramework.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\EntityFramework.SqlServer.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.Owin.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.Owin.Security.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.Owin.Security.Google.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\bin\System.Web.Http.Owin.xml
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\obj\Debug\AdminLTE.dll
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\obj\Debug\AdminLTE.pdb
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\ApplicationInsights.config
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\roslyn\csc.exe
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\roslyn\Microsoft.CodeAnalysis.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\roslyn\Microsoft.CSharp.Core.targets
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\roslyn\System.Collections.Immutable.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\roslyn\System.Reflection.Metadata.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\roslyn\vbc.exe
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\roslyn\VBCSCompiler.exe
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\roslyn\VBCSCompiler.exe.config
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\AdminLTE.dll.config
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\AdminLTE.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\AdminLTE.pdb
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Antlr3.Runtime.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Boleto.Net.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\EntityFramework.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\EntityFramework.SqlServer.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.AI.Agent.Intercept.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.AI.DependencyCollector.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.AI.PerfCounterCollector.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.AI.ServerTelemetryChannel.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.AI.Web.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.AI.WindowsServer.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.ApplicationInsights.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.AspNet.Identity.Core.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.AspNet.Identity.Owin.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.Owin.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.Owin.Host.SystemWeb.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.Owin.Security.Cookies.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.Owin.Security.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.Owin.Security.Facebook.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.Owin.Security.Google.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.Owin.Security.OAuth.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.Owin.Security.Twitter.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.Web.Infrastructure.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Newtonsoft.Json.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\NReco.PdfGenerator.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Owin.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\System.Net.Http.Formatting.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\System.Web.Helpers.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\System.Web.Http.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\System.Web.Http.Owin.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\System.Web.Http.WebHost.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\System.Web.Mvc.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\System.Web.Optimization.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\System.Web.Razor.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\System.Web.WebPages.Deployment.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\System.Web.WebPages.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\System.Web.WebPages.Razor.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\WebGrease.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.AI.DependencyCollector.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.AI.ServerTelemetryChannel.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.AI.Web.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.AI.WindowsServer.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.ApplicationInsights.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Newtonsoft.Json.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\System.Net.Http.Formatting.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\System.Web.Helpers.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\System.Web.Http.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\System.Web.Http.WebHost.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\System.Web.Mvc.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\System.Web.Optimization.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\System.Web.Razor.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\System.Web.WebPages.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\System.Web.WebPages.Deployment.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\System.Web.WebPages.Razor.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Antlr3.Runtime.pdb
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\EntityFramework.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\EntityFramework.SqlServer.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.AspNet.Identity.Core.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.AspNet.Identity.Owin.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.Owin.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.Owin.Host.SystemWeb.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.Owin.Security.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.Owin.Security.Facebook.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.Owin.Security.Cookies.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.Owin.Security.OAuth.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.Owin.Security.Google.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.Owin.Security.Twitter.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\bin\System.Web.Http.Owin.xml
+K:\Jaime\Projetos\adminlte\AdminLTE\obj\Debug\AdminLTE.dll
+K:\Jaime\Projetos\adminlte\AdminLTE\obj\Debug\AdminLTE.pdb
+D:\Projetos\Projetos C#.net\AdminLTE\AdminLTE\obj\Debug\AdminLTE.csprojResolveAssemblyReference.cache
